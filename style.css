@@ -1,0 +1,32 @@
+body {
+  background-color: #3f3f44;
+}
+
+h1 {
+  color: #8ccbbe;
+  font-size: 8rem;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 5px 5px black;
+  margin: 50px;
+}
+
+h2 {
+  color: #8ccbbe;
+  font-family: fantasy;
+  text-align: center;
+}
+
+img {
+  width: 60%;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+footer {
+margin: 50px;
+  text-align: center;
+color: white;
+}
